@@ -20,11 +20,11 @@ This project demonstrates how to launch a Windows Virtual Machine (VM) on AWS EC
 
 ### Part 1: OS and Processor Details
 This screenshot confirms the OS version, Host Name, and CPU specifications.
-![System Info Top](images/aws-windows-systeminfo-top.png)
+![System Info Top](aws-windows-systeminfo-top.png.png)
 
 ### Part 2: Network and Memory Configuration
 This screenshot details the RAM usage, Network Adapter (Amazon ENA), and Internal IP.
-![System Info Bottom](images/aws-windows-systeminfo-bottom.png)
+![System Info Bottom](aws-windows-systeminfo-bottom.png.png)
 
 ## 🛑 Post-Task Cleanup
 To follow AWS best practices and avoid unnecessary charges, the instance was **Terminated** immediately after the task was completed.
